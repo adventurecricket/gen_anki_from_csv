@@ -1,4 +1,5 @@
-#SUMMARY
+# SUMMARY
+
 This app allows you to import a list from a .csv file to create cards for Anki.
 The .csv file must have the format with 3 cols: Word, Ipa, and Meaning. You can refer to the words.csv file in the project.
 
