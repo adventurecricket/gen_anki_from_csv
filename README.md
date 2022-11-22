@@ -1,3 +1,8 @@
+#SUMMARY
+This app allows you to import a list from a .csv file to create cards for Anki.
+The .csv file must have the format with 3 cols: Word, Ipa, and Meaning. You can refer to the words.csv file in the project.
+
+
 # genanki: A Library for Generating Anki Decks
 
 `genanki` allows you to programatically generate decks in Python 3 for Anki, a popular spaced-repetition flashcard
